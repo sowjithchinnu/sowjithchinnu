@@ -1,117 +1,60 @@
 # Hi 👋 I'm Sowjith
 
-**Full-Stack Developer | Cloud & AI Enthusiast | ECE Student @ IIIT Dharwad**
+**Full-Stack Developer | Cloud & AI Enthusiast | ECE @ IIIT Dharwad**
 
-* 🚀 Building full-stack web applications with modern technologies
-* ☁️ Learning AWS, Docker, DevOps, and cloud deployment
-* 🤖 Exploring AI-powered applications and real-time systems
-* 📍 Based in Hyderabad, India
+Building production-grade applications with modern tech. 6 deployed projects across AI, enterprise systems, and cloud infrastructure.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-Python • JavaScript • C++ • C • HTML/CSS • Verilog
-
-### Frontend
-
-React • Tailwind CSS • Vite
-
-### Backend
-
-Node.js • Express.js
-
-### Databases
-
-MongoDB Atlas • PostgreSQL
-
-### Cloud & DevOps
-
-AWS EC2 • Docker • Nginx • GitHub Actions • Render • Vercel
-
-### Tools & APIs
-
-Git • Linux • Groq API • Supabase
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frontend:** React, Next.js, Tailwind CSS, Vite  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, PostgreSQL (Supabase)  
+**Cloud & DevOps:** AWS EC2, Docker, Nginx, Linux, GitHub Actions  
+**AI & Tools:** Groq API, Supabase, pdf-lib, Git
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Speech-to-Text App
+### 1. Smart ERP
+Full-stack business management system with 9+ modules (customers, suppliers, inventory, purchases, sales). JWT auth, PostgreSQL, modular APIs.
+- **Live:** https://smart-erp-beryl.vercel.app
+- **GitHub:** github.com/sowjithchinnu/smart-erp
 
-A full-stack AI-powered speech transcription platform with real-time voice-to-text conversion, file uploads, authentication, and transcription history.
+### 2. AI Code Review Assistant
+Code review platform with AI summaries (Groq API), static analysis (ESLint/Pylint), complexity metrics. Multi-language support.
+- **Live:** https://ai-code-review-assistant-puce-nu.vercel.app
+- **GitHub:** github.com/sowjithchinnu/ai-code-review-assistant
 
-🔗 Live Demo: https://speech-to-text-app-three-puce.vercel.app
-🔗 GitHub Repository: https://github.com/sowjithchinnu/speech-to-text-app
+### 3. AI Speech-to-Text Web App
+Real-time speech transcription with Groq AI, user authentication (Supabase), transcription history. Solved production challenges: MongoDB pooling, CORS, mobile responsiveness.
+- **Live:** https://speech-to-text-app-three-puce.vercel.app
+- **GitHub:** github.com/sowjithninnu/speech-to-text-app
 
-#### Features
+### 4. Document Signature Application
+PDF signing platform with digital signatures (handwritten + typed), secure uploads, audit logging. pdf-lib integration for dynamic signature embedding.
+- **Live:** https://document-signature-app-sigma.vercel.app
+- **GitHub:** github.com/sowjithninnu/document-signature-app
 
-* Real-time live speech transcription
-* Audio file upload & AI transcription
-* Authentication with Supabase
-* MongoDB-based transcription history
-* Responsive mobile-friendly UI
-* Cloud deployment using Vercel & Render
+### 5. AWS Portfolio Deployment
+Live portfolio on AWS EC2 with Docker, Nginx, GitHub Actions CI/CD. Production deployment, server security, cloud infrastructure.
+- **GitHub:** github.com/sowjithchinnu/portfolio-site
 
-#### Tech Stack
-
-React • Node.js • Express.js • MongoDB Atlas • Groq AI • Supabase • Tailwind CSS
-
-#### What I Learned
-
-* Full-stack application architecture
-* AI API integration
-* Cloud deployment workflows
-* Database connectivity & debugging
-* Responsive UI/UX design
-* Real-world production debugging
+### 6. IoT Smart Car
+Autonomous obstacle-avoiding vehicle using Arduino, ultrasonic sensors, motor drivers. Real-time sensor fusion for collision avoidance.
 
 ---
 
-### ☁️ AWS Portfolio Website
+## 📫 Connect
 
-Personal portfolio website deployed on AWS using Docker and CI/CD workflows.
-
-🔗 Live Demo: http://51.20.246.180
-🔗 GitHub Repository: https://github.com/sowjithchinnu/portfolio-site
-
-#### Tech Stack
-
-AWS EC2 • Docker • Nginx • GitHub Actions
-
-#### What I Learned
-
-* Cloud infrastructure setup
-* Containerization using Docker
-* Reverse proxy configuration with Nginx
-* CI/CD automation pipelines
+- **Email:** sowjith.vnalli7@gmail.com
+- **Phone:** +91 7989279223
+- **LinkedIn:** linkedin.com/in/nalli-sowjith-kumar-1b17303bb
+- **Location:** Hyderabad, India
 
 ---
 
-### 🚗 Other Projects
-
-#### IoT Smart Car
-
-Arduino-based autonomous smart vehicle with obstacle detection and avoidance.
-
-#### Verilog Digital Design Projects
-
-Implemented ALUs, counters, FSMs, and digital logic circuits using Verilog HDL.
-
-#### Python Automation Scripts
-
-Built automation tools for file management, web scraping, and task automation.
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [sowjith.vnalli7@gmail.com](mailto:sowjith.vnalli7@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/nalli-sowjith-kumar-iiit-dharwad-1b17303bb
-* 📱 Phone: +91 7989279223
-
----
-
-⭐ Open to internships, freelance opportunities, and collaborations.
+**Open to opportunities in full-stack development, cloud engineering, and backend systems!** 💪
